@@ -6,6 +6,9 @@
 
 # Build the Genie Project
 
+# Usage
+# build.py <lib> <dep1,dep2,dep3>
+
 from os import listdir
 from os import walk
 import sys
